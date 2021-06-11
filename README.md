@@ -1,2 +1,3 @@
-source: https://1jeremy.github.io \
-deploys to: https://1jeremy.netlify.app
+1jeremy.github.io
+
+[MIT License]: /license.txt
