@@ -1,5 +1,4 @@
 1jeremy.github.io
 
-(c) 1Jeremy 2021
-
+&copy; 2021 1Jeremy 
 [MIT License](license.txt)
