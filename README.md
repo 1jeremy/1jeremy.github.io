@@ -1,3 +1,4 @@
 1jeremy.github.io
 
-[MIT License]: /license.txt
+(c) 1Jeremy 2021
+[MIT License](license.txt)
